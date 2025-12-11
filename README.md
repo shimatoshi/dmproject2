@@ -1,4 +1,4 @@
-# Duema Online - Real-time TCG Simulator
+# dmonline2
 
 **React + Firebaseで構築された、モバイルファーストなトレーディングカードゲーム(TCG)対戦プラットフォーム**
 
