@@ -1,11 +1,10 @@
-# dmproject2
 # Duema Online - Real-time TCG Simulator
 
 **React + Firebaseで構築された、モバイルファーストなトレーディングカードゲーム(TCG)対戦プラットフォーム**
 
 [デモアプリはこちら (Live Demo)](https://dmonline-20f98.web.app/)
 
-## 📖 概要
+##  概要
 個人的にプレイしているTCGの対戦を、場所を選ばずオンラインで行うために開発したSPA（Single Page Application）です。
 既存のシミュレーターはPC向けが多く、スマホでの操作性が低いという課題がありました。本プロジェクトでは**「スマートフォンでの快適なプレイ体験」**を最優先に設計し、タップ操作主体のUI/UXを実現しました。
 
